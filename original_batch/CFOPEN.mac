@@ -1,0 +1,7 @@
+*CFOPEN, C:\mine\apdl\ThermalSimulation\TBSimu1.0\APDL\SUB\TEMP1\temp_csv\All_Node_Data, csv
+*VWRITE,'NODE_ID','X','Y','Z','HF_X','HF_Y','HF_Z'
+%C,%C,%C,%C,%C,%C,%C
+*VWRITE,NodeData(1,1),NodeData(1,2),NodeData(1,3),NodeData(1,4),NodeData(1,5),NodeData(1,6),NodeData(1,7)
+(F10.0, ',', F10.6, ',', F10.6, ',', F10.6, ',', F10.6, ',', F10.6, ',', F10.6)
+*CFCLOS
+

@@ -1,0 +1,22 @@
+*DIM,NodeData,ARRAY,20000,4   ! 假设最多1000行，3列
+! 读取 CSV 文件
+*VREAD,NodeData(1,1),'C:\mine\apdl\ThermalSimulation\TBSimu1.0\APDL\SUB\TEMP2\POINTCLOUD\Square_TO_10.0_data.csv',,,JIK,4,20000,1
+(F10.0,F12.6,F12.6,F12.6)
+
+/POST1
+*GET,RowCount,PARM,NodeData,DIM,X
+*DO,i,1,RowCount
+    *IF,NodeData(i,1),EQ,0,EXIT
+*ENDDO
+RowCount = i - 1
+
+/PREP7
+*VREAD,NodeData(1,1),'C:\mine\apdl\ThermalSimulation\TBSimu1.0\APDL\SUB\TEMP2\POINTCLOUD\Square_TO_10.0_data.csv',,,JIK,4,RowCount,1
+(F10.0,F12.6,F12.6,F12.6)
+
+! 循环创建节点
+*DO,i,1,RowCount
+    K, NodeData(i,1)+10000, NodeData(i,2), NodeData(i,3),NodeData(i,4)
+*ENDDO
+
+! 显示节点

@@ -1,0 +1,19 @@
+*DIM,NodeData,ARRAY,20000,3   ! 假设最多1000行，3列
+!读取 CSV 文件
+*VREAD,NodeData(1,1),'C:\mine\apdl\ThermalSimulation\test_output.csv',,,JIK,3,20000,1
+(F10.0,F12.6,F12.6)
+
+/POST1
+*GET,RowCount,PARM,NodeData,DIM,X
+*DO,i,1,RowCount
+    *IF,NodeData(i,1),EQ,0,EXIT
+*ENDDO
+RowCount = i - 1
+/PREP7
+! 循环创建节点
+*DO,i,1,RowCount
+    K, NodeData(i,1)+10000, NodeData(i,2), NodeData(i,3)
+*ENDDO
+/PNUM,KP,0
+
+! 显示节点

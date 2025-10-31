@@ -1,0 +1,11 @@
+ansys_api_mapdl
+ansys_api_platform_instancemanagement
+ansys_mapdl_reader
+h5py
+matplotlib
+numpy
+pandas
+scikit_learn
+scipy
+Shapely
+tensorflow

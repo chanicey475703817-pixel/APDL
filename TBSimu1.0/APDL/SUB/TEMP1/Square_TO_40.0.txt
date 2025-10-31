@@ -1,0 +1,234 @@
+/CLEAR
+/CWD,'C:\mine\apdl\ThermalSimulation\working'
+/FILNAME,ThermalBridge,1
+!PART1
+!试块尺寸
+    ! 试块高度和宽度
+    H1=1
+    W1=1
+    ! 主体厚度
+    D1=0.15
+    ! 保温层厚度
+    D2=0.06
+    ! 试块总厚度
+    D3=D1+D2
+    ! 热桥构件与内表面距离
+    D0=0.01
+
+!PART2
+!热桥1（方）
+    ! 热桥构件高*宽*厚度
+    TBH1=0.1
+    TBW1=0.1
+    TBD1=0.15
+    !工作平面位置
+    PD1=-D2+D0+TBD1
+    !绘制中心点
+    DX1=(W1-TBW1)/2
+    DY1=(H1-TBH1)/2
+
+ ! 内外边界参数      （SF_E SF_I 传热系数？ TO内表面温度 TE外表面温度）
+TO=40.0
+    TE=0
+    SF_E=23
+    SF_I=8
+    T_DELT=ABS(TO-TE)           !温差
+    !全局网格尺寸ESIZE
+    ESZ=0.02
+    ! 各材料热导率参数
+    K1 = .034
+    K2 = 47.0000
+    K3 = 2.2
+
+    RHO_EPS = 20
+    RHO_BOX = 7850
+    RHO_WALL = 2400
+
+    CC_EPS = 1450
+    CC_BOX = 450
+    CC_WALL = 1000
+
+    T_LIM = T_DELT/250
+    ! T_LIM = 0.005
+
+
+!PART3
+/PREP7
+
+!材料属性定义
+    ! Thermal conductivities    导热系数
+    MP,KXX,1,K1
+    MP,KXX,2,K2
+    MP,KXX,3,K3
+    ! Specific heat             比热
+    MP,C,1,CC_EPS
+    MP,C,2,CC_BOX
+    MP,C,3,CC_WALL
+    ! Mass density              质量密度
+    MP,DENS,1,RHO_EPS
+    MP,DENS,2,RHO_BOX
+    MP,DENS,3,RHO_WALL
+
+
+!建模1
+	!墙体
+	BLC4,0,0,H1,W1,D1
+
+	! 绘制保温层
+        WPOFFS,0,0,D1               !偏移工作平面（偏移D1墙体厚度）
+        BLC4,0,0,H1,W1,D2
+
+        ! 绘制热桥构件（1方）
+        WPOFFS,0,0,-PD1
+        BLC4,DX1,DY1,TBW1,TBH1,TBD1    !绘制
+        WPAVE                       !将工作平面原点重置全局原点0,0,0
+
+!布尔运算
+        VGEN,3,3                	!本来用于体生成体，体块3复制3次
+	VSBV,1,4
+	VSBV,2,5
+	VPTN,ALL
+	NUMCMP,ALL  		!压缩编号
+
+!绘制切割面-----------------------------------------------------------------------------------------
+!Y方向切割面是22,24
+	AGEN,2,5
+	AGEN,2,21
+	AADD,22,23
+	AGEN,,24,,,,DY1,,,,1
+	AGEN,2,24,,,,TBH1	
+!X方向切割面是23,26
+	AGEN,2,7
+	AGEN,2,18
+	AADD,23,25
+	AGEN,,26,,,DX1,,,,,1
+	AGEN,2,26,,,TBW1
+!切割面打组
+	ASEL,,,,22,24
+	ASEL,A,,,26
+	CM,DIVA,AREA
+	VSBA,ALL,DIVA
+!切割完成
+	VSEL,ALL
+	VPTN,ALL
+	NUMCMP,ALL  		!压缩编号
+	
+!-------------------------------------------------------------------------------------------------------------
+!打组附材质
+	!EPS:3,4,5,6,7,12,14,15,16
+	VSEL,S,,,3,7
+	VSEL,A,,,14,16
+	VSEL,A,,,12
+	CM,EPS,VOLU
+	VATT,1
+
+	!TB:1
+	VSEL,S,,,1
+	CM,TB,VOLU
+	VATT,2
+
+	!WALL:2,8,9,10,11,13,17,18,19
+	VSEL,S,,,2
+	VSEL,A,,,8,11
+	VSEL,A,,,13
+	VSEL,A,,,17,19
+	CM,WALL,VOLU
+	VATT,3
+
+	VSEL,ALL
+
+!网格划分
+	TUNIF,0		!全局温度设定
+	TOFFST,273	!温度偏移
+
+!MESHING EPS
+	ET,1,SOLID90	!把Element中的SOLID90附给1（编号）
+	TYPE,1		!元素类型属性指针，单元类型号，ET为编号定义单元类型
+	ESIZE,ESZ		!所有线默认划分为每段0.01  ESIZE ,SIZE,NDIV
+	MAT,1		!元素材料属性指针，材料属性号，MP为编号定义材料属性
+	MSHKEY,1  	!使用映射网格
+	MSHAPE,2,3D	!2是六面体
+	CMSEL,,EPS	!组件选择
+	VSWEEP,ALL	!扫略网格划分
+
+! MESHING TB
+    ET,1,SOLID90
+    TYPE,1
+    ESIZE,ESZ
+    MAT,2
+    MSHKEY,1
+    MSHAPE,2,3D
+    CMSEL,,TB
+    VSWEEP,ALL
+
+    ! MESHING WALL
+    ET,1,SOLID90
+    TYPE,1
+    ESIZE,ESZ
+    MAT,3
+    MSHKEY,1
+    MSHAPE,2,3D
+    CMSEL,,WALL
+    VSWEEP,ALL
+
+
+
+ ! LOADS APPLY 加荷载
+
+   	ASEL,S,LOC,Z,D3         	!选择形心位于z=D3的平面
+  	CM,INT,AREA             	!COMPONENT建立组件，所选平面建立组件，即内表面
+   	SFA,ALL,1,CONV,SF_E,TE  	!指定所选area的荷载
+    	ASEL,S,LOC,Z,0          	!重新选择形心位于z=0的平面
+    	CM,EXT,AREA             	!z=0的平面组成EXT组件，即外表面
+    	SFA,ALL,1,CONV,SF_I,TO  	!指定荷载
+   	CMSEL,ALL               		!选择所有组件
+    	ASEL,ALL              	  	!选择所有面
+    	SBCTRAN                 		!将几何荷载转换为有限元荷载，手动执行主要用于进行检查和调试，当/SOLU时会自动完成
+
+
+/SHOW,PNG
+/REPLOT
+LPLOT
+/SHOW,CLOSE
+
+/SOLU
+! 第一次求解,整个墙面的求解
+    	ANTYPE,STATIC   
+    	NROPT,AUTO       
+   	TIME,0
+
+	OUTRES,ALL,ALL
+
+    	SOLVE
+   	FINISH
+
+
+
+	
+/POST1
+SET,LAST
+ALLSEL,ALL
+NSEL,S,TF,SUM,,,1	!筛选有热流数据的有效点
+/UIS,MSGPOP,3
+
+*GET,NodeCount,NODE,0,COUNT
+*DIM,NodeData,ARRAY,NodeCount,7
+*VGET,NodeData(1,1),NODE,,NLIST
+
+*DO,i,1,NodeCount
+	NodeID=NodeData(i,1)
+	*GET,NodeData(i,2),NODE,NodeID,LOC,X
+	*GET,NodeData(i,3),NODE,NodeID,LOC,Y
+	*GET,NodeData(i,4),NODE,NodeID,LOC,Z
+
+	*GET,NodeData(i,5),NODE,NodeID,TF,X
+	*GET,NodeData(i,6),NODE,NodeID,TF,Y
+	*GET,NodeData(i,7),NODE,NodeID,TF,Z
+
+*ENDDO
+
+	/INPUT,CFOPEN,mac,'C:\mine\apdl\ThermalSimulation\original_batch'
+		
+
+		
+

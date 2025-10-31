@@ -64,7 +64,7 @@ def alphashape_fileio(infile, outfile, alpha, fig = ""):    #读取点数据输�
 def define_effected_points(df,col,threshold):
     df0 = df[col].round(2)
     normal = df0.mode().loc[0] if not df0.mode().empty else df0.mean()
-    num = normal+threshold
+    num = normal*threshold
     diff_data = df.loc[df[col]>num].index
     return diff_data
 
@@ -77,7 +77,7 @@ def define_effected_points(df,col,threshold):
 #     diff_data = df[z_scores >= threshold].index
 #     return diff_data
     
-def filter_points(input_csv,output_csv,THREED_NAME,q_0=3):        #热流密度矢量定义函数
+def filter_points(input_csv,output_csv,THREED_NAME,q_0=2.5):        #热流密度矢量定义函数
     # 1. 从 APDL 生成的 CSV 文件中读取数据
     df0= pd.read_csv(input_csv)
     df0['HF_X'] = pd.to_numeric(df0['HF_X'], errors='coerce')
@@ -155,7 +155,7 @@ def filter_points(input_csv,output_csv,THREED_NAME,q_0=3):        #热流密度�
     
 
 
-def alphamain(input,output,twod_name,threed_name,fig_boolean=False,alpha=0.5,q_0=40):
+def alphamain(input,output,twod_name,threed_name,fig_boolean=False,alpha=0.5,q_0=1.3):#Z:2.7
 
 
     #筛点函数中转路径

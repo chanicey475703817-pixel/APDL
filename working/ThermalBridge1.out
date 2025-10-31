@@ -17,8 +17,9 @@
    NUMBER OF SUBSTEPS. . . . . . . . . . . . . . .     1
    STEP CHANGE BOUNDARY CONDITIONS . . . . . . . .    NO
    PRINT OUTPUT CONTROLS . . . . . . . . . . . . .NO PRINTOUT
-   DATABASE OUTPUT CONTROLS. . . . . . . . . . . .ALL DATA WRITTEN
-                                                  FOR THE LAST SUBSTEP
+   DATABASE OUTPUT CONTROLS
+      ITEM     FREQUENCY   COMPONENT
+       ALL        ALL               
 
 
 
@@ -26,7 +27,7 @@
   *** MASS SUMMARY BY ELEMENT TYPE ***
 
   TYPE      MASS
-     1   183.763    
+     1   185.507    
  AN AVERAGE OF THE X-, Y-, AND Z-DIRECTION MASS TERMS ARE USED
   Memory available (MB) =    0.0    ,  Memory required (MB) =    0.0    
 
@@ -34,12 +35,12 @@
    *** ELEMENT RESULT CALCULATION TIMES
      TYPE    NUMBER   ENAME      TOTAL CP  AVE CP
 
-        1     31824  SOLID90       0.000   0.000000
+        1     31212  SOLID90       0.000   0.000000
 
    *** NODAL LOAD CALCULATION TIMES
      TYPE    NUMBER   ENAME      TOTAL CP  AVE CP
 
-        1     31824  SOLID90       0.000   0.000000
+        1     31212  SOLID90       0.000   0.000000
  *** LOAD STEP     1   SUBSTEP     1  COMPLETED.    CUM ITER =      1
  *** TIME =   1.00000         TIME INC =   1.00000      NEW TRIANG MATRIX
 
@@ -66,11 +67,11 @@
  |---------------------------------------------------------------------------|
  |                                                                           |
  | Database Requested(-db)     1 MB    Scratch Memory Requested      1024 MB |
- | Maximum Database Used       1 MB    Maximum Scratch Memory Used    609 MB |
+ | Maximum Database Used       1 MB    Maximum Scratch Memory Used    564 MB |
  |                                                                           |
  |---------------------------------------------------------------------------|
  |                                                                           |
- |        CP Time      (sec) =         13.562       Time  =  09:55:09        |
- |        Elapsed Time (sec) =         38.000       Date  =  10/31/2025      |
+ |        CP Time      (sec) =          4.000       Time  =  11:46:33        |
+ |        Elapsed Time (sec) =         16.000       Date  =  10/31/2025      |
  |                                                                           |
  *---------------------------------------------------------------------------*

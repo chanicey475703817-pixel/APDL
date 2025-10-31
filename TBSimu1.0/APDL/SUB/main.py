@@ -48,7 +48,7 @@ def single_run(t_value, mapdl, failure_log="failures.log"):  #输入t值后，�
     dataframe = pd.DataFrame(data)
     n=0
 
-    for shape,path in file_list.items():        #三种形状均遍历一遍,暂时注释掉用于固定输出
+    for shape,path in test_list.items():        #三种形状均遍历一遍,暂时注释掉用于固定输出
         with open(path, 'r', encoding='utf-8') as file:
             lines = file.readlines()             #处理文件中t、k、tbh、tbw的值
             for index, line in enumerate(lines): #获取带索引的列表
@@ -242,7 +242,7 @@ def log_write_and_interrupt(t_value, failure_log="failures.log"):            # k
 def main_loop( t=-1, failure_log="failures.log"):  # k=-1, tbh=-1, tbw=-1
     
     # 设置默认范围
-    t_range = [t] if t != -1 else [round(i / 10.0, 2) for i in range(0, 505, 10)] #便于调试时使用单个参数，运行时自动扫描。这里使用了列表推导式
+    t_range = [t] if t != -1 else [round(i / 10.0, 2) for i in range(50, 505, 50)] #便于调试时使用单个参数，运行时自动扫描。这里使用了列表推导式
 
     #注释了无关参数
     # k_range = [k] if k != -1 else range(10, 180, 20)

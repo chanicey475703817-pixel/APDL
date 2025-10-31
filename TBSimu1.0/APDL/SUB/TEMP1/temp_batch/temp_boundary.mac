@@ -1,0 +1,30 @@
+/PREP7
+
+! 直接读取边界点数据
+*DIM,BDT,ARRAY
+*VREAD,BDT,'C:\\mine\\apdl\\ThermalSimulation\\TBSimu1.0\\APDL\\SUB\\TEMP1\\OUTLINE\Square_TO_50.0_data.csv',,,JIK,1,1,1
+(F10.0)
+
+! 获取边界点数量
+BDN = BDT(1)
+
+! 读取边界点坐标
+*DIM,BD,ARRAY,BDN,3,1
+*VREAD,BD(1,1),'C:\\mine\\apdl\\ThermalSimulation\\TBSimu1.0\\APDL\\SUB\\TEMP1\\OUTLINE\Square_TO_50.0_data.csv',,,JIK,3,BDN,1,1
+(F10.0,,F10.0,,F10.0)
+
+
+! 创建关键点并生成面
+FLST,2,BDN,3
+*DO,I,1,BDN
+    K,1000+I,BD(I,2),BD(I,3),0.21  ! 直接创建关键点
+    FITEM,2,1000+I
+*ENDDO
+
+A,P51X
+
+!对最后一个面进行偏移
+ASEL,ALL
+*GET,ANUM,AREA,,COUNT
+VOFFST,ANUM,0.21
+/POST1

@@ -111,3 +111,2669 @@
  *** WARNING ***                         CP =       0.000   TIME= 00:00:00
  The selected element set contains mixed materials.                      
   This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** ERROR ***                           CP =       0.000   TIME= 00:00:00
+ The program is unable to open file C:\mine\apdl\ThermalSimulation\TBSimu
+ 1.0\APDL\SUB\TEMP1\temp_csv\All_Node_Data.csv.  If the suggestions in   
+ the associated error messages immediately preceding and/or following    
+ this error message do not help resolve the file issue, please send the  
+ data leading to this operation to your technical support provider,      
+ along with the I/O error code of 30 and the system error code of 32,    
+ for help in determining the possible reasons as to why this file could  
+ not be opened.                                                          
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Unable to open *CFOPEN file ( ).                                        
+  The *CFOPEN command is ignored.                                        
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+/COM,ANSYS RELEASE                   BUILD  0.0      UP00000000       00:00:00
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Assembly DIVA is deleted.                                               
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ Parameter NODEDATA already exists.  It is deleted and redefined by the  
+ *DIM command.                                                           
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
+
+ *** WARNING ***                         CP =       0.000   TIME= 00:00:00
+ The selected element set contains mixed materials.                      
+  This could invalidate error estimation.                                
